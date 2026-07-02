@@ -9,27 +9,17 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// DFS
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        queue<TreeNode*> q;
         if(root==NULL) return 0;
-        q.push(root);
-        int depth = 1;
-        while(!q.empty()){
-            int s = q.size();
-            for(int i=0;i<s;i++){
-                TreeNode* temp = q.front();
-                q.pop();
-                if(temp->left==NULL && temp->right==NULL){
-                    return depth;
-                }
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
-                
-            }
-            depth++;
-        }
-        return -1;
+        if(root->left == NULL && root->right==NULL) return 1;
+        int lh = minDepth(root->left);
+        if(lh==NULL) lh=INT_MAX;
+        int rh = minDepth(root->right);
+        if(rh==NULL) rh=INT_MAX;
+        return 1 + min(lh,rh);
     }
 };
