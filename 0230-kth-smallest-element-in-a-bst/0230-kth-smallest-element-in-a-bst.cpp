@@ -11,16 +11,15 @@
  */
 class Solution {
 public:
-    void fun(vector<int> &pre , TreeNode* root){
+    void fun(vector<int> &in,TreeNode* root){
         if(root==NULL) return;
-        pre.push_back(root->val);
-        fun(pre,root->left);
-        fun(pre,root->right);
+        fun(in,root->left);
+        in.push_back(root->val);
+        fun(in,root->right);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> pre;
-        fun(pre,root);
-        sort(pre.begin(),pre.end());
-        return pre[k-1];
+        vector<int> in;
+        fun(in,root);
+        return in[k-1];
     }
 };
