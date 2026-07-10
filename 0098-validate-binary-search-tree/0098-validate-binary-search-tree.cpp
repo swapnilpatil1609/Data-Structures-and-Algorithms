@@ -11,18 +11,12 @@
  */
 class Solution {
 public:
-    void fun(vector<int> &in,TreeNode* root){
-        if(root==NULL) return;
-        fun(in,root->left);
-        in.push_back(root->val);
-        fun(in,root->right);
+    bool h(TreeNode* root,long long minVal,long long maxVal){
+        if(root==NULL) return true;
+        if(root->val>=maxVal || root->val<=minVal) return false;
+        return h(root->left,minVal,root->val) && h(root->right,root->val,maxVal);
     }
     bool isValidBST(TreeNode* root) {
-        vector<int> in;
-        fun(in,root);
-        for(int i=1;i<in.size();i++){
-            if(in[i]<=in[i-1]) return false;
-        }
-        return true;
+        return h(root,LLONG_MIN,LLONG_MAX);
     }
 };
