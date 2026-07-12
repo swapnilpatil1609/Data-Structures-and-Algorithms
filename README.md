@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0814-binary-tree-pruning) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0938-range-sum-of-bst) |
