@@ -208,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
