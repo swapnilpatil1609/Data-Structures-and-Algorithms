@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0938-range-sum-of-bst) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
