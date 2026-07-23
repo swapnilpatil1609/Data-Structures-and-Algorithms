@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2652-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |
