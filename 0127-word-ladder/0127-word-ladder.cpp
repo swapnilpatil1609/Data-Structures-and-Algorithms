@@ -12,11 +12,11 @@ public:
             if(word == endWord) return steps;
             for(int i=0;i<word.size();i++){
                 char original = word[i];
-                for(char c='a';c<='z';c++){
-                    word[i] = c;
+                for(char ch = 'a'; ch<='z'; ch++){
+                    word[i]=ch;
                     if(st.find(word) != st.end()){
-                        st.erase(word);
                         q.push({word,steps+1});
+                        st.erase(word);
                     }
                 }
                 word[i]=original;
