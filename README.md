@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -299,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
