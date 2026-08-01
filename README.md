@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0938-range-sum-of-bst) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
@@ -308,5 +312,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
