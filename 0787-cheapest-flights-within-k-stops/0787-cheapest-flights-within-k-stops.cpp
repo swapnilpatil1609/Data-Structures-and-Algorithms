@@ -4,6 +4,11 @@ public:
         vector<pair<int,int>> adj[n];
         for(auto it : flights){
             adj[it[0]].push_back({it[1],it[2]});
+            // int u = it[0];
+            // int v = it[1];
+            // int w = it[2];
+            // adj[u].push_back({v,w});
+            // adj[v].push_back({u,w});
         }
         // ({stops,{node,cost}})
         queue<pair<int,pair<int,int>>> q;
