@@ -1,32 +1,78 @@
+class DisjointSet {
+	vector<int> rank,parent,size;
+	public:
+		DisjointSet(int n){
+			rank.resize(n+1,0);  // if 1 based indexing
+			parent.resize(n+1);
+			size.resize(n+1);
+			for(int i=0;i<n;i++){
+				parent[i] = i;
+				size[i] = 1;
+			}
+		}
+		// path compression
+		int findUPar(int node){
+			if(node == parent[node]){
+				return node;
+			}
+			parent[node] = findUPar(parent[node]);
+			return parent[node];
+		}
+		void unionByRank(int u,int v){
+			int ulp_u = findUPar(u);
+			int ulp_v = findUPar(v);
+			if(ulp_u == ulp_v) return ;
+			if(rank[ulp_u] < rank[ulp_v]){
+				parent[ulp_u] = ulp_v;
+			}
+			else if(rank[ulp_v] < rank[ulp_u]){
+				parent[ulp_v] = ulp_u;
+			}
+			// if both have same rank attach anyone with each other
+			else {
+				parent[ulp_v] = ulp_u;
+				rank[ulp_u]++;
+			}
+		}
+		void unionBySize(int u,int v){
+			int ulp_u = findUPar(u);
+			int ulp_v = findUPar(v);
+			if(ulp_u == ulp_v) return ;
+			if(size[ulp_u] < size[ulp_v]){
+				parent[ulp_u] = ulp_v;
+				size[ulp_v] += size[ulp_u];
+			}
+			else{
+				parent[ulp_v] = ulp_u;
+				size[ulp_u] += size[ulp_v];
+			}
+		}
+};
+
 class Solution {
 public:
-    void dfs(int node,vector<int> adj[], vector<int> &vis){
-        vis[node] = 1;
-        for(auto it :adj[node]){
-            if(!vis[it]){
-                dfs(it,adj,vis);
-            }
-        }
-    }
     int findCircleNum(vector<vector<int>>& isConnected) {
+
         int v = isConnected.size();
-        vector<int> adj[v];
+
+        DisjointSet ds(v);
+
         for(int i=0;i<v;i++){
-            for(int j=0;j<v;j++){
-                if(isConnected[i][j]==1 && i!=j){
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
+            for(int j=i+1;j<v;j++){
+
+                if(isConnected[i][j]==1){
+                    ds.unionBySize(i,j);
                 }
             }
         }
-        vector<int> vis(v,0);
-        int cnt =0;
+
+        int cnt = 0;
+
         for(int i=0;i<v;i++){
-            if(!vis[i]){
+            if(ds.findUPar(i)==i)
                 cnt++;
-                dfs(i,adj,vis);
-            }
         }
+
         return cnt;
     }
 };
