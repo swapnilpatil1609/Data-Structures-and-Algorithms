@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2413-smallest-even-multiple](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2652-sum-multiples) |
 ## Number Theory
