@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0257-binary-tree-paths) |
+| [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [1108-defanging-an-ip-address](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -328,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
