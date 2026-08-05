@@ -52,23 +52,23 @@ class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         DisjointSet ds(n);
-        int cntExtra = 0;
+        int extra = 0;
         for(auto it : connections){
             int u = it[0];
             int v = it[1];
             if(ds.findUPar(u) == ds.findUPar(v)){
-                cntExtra++;
+                extra++;
             }
             else{
                 ds.unionBySize(u,v);
             }
         }
-        int cntC = 0;
+        int c = 0;
         for(int i=0;i<n;i++){
-            if(ds.findUPar(i)==i) cntC++;
+            if(ds.findUPar(i)==i) c++;
         }
-        int ans = cntC-1;
-        if(cntExtra>=ans) return ans;
+        int ans = c-1;
+        if(extra>= ans) return ans;
         return -1;
     }
 };
