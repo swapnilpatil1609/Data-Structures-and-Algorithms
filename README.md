@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1512-number-of-good-pairs) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
