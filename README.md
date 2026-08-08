@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0412-fizz-buzz) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [1108-defanging-an-ip-address](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1512-number-of-good-pairs) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
 |  |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
