@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
+| [1207-unique-number-of-occurrences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
