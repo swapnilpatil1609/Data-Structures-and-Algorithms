@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
