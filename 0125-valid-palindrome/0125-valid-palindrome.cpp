@@ -9,7 +9,7 @@ public:
                 l++;
             }
             else if(!isalnum(s[r])){
-                r++;
+                r--;
             }
             else if(tolower(s[l]) != tolower(s[r])){
                 return false;
