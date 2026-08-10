@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
