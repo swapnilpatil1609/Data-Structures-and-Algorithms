@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [1207-unique-number-of-occurrences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
