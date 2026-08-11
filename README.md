@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
 | ------- |
