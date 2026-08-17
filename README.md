@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -477,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
