@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0222-count-complete-tree-nodes) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
