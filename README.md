@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1672-richest-customer-wealth) |
 ## Simulation
