@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
