@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0733-flood-fill) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
