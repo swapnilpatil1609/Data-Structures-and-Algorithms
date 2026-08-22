@@ -8,22 +8,22 @@ public:
         int ct = 1;
         vector<vector<int>> mat(n,vector<int> (n));
         while(top<=bot && left<=right){
-            for(int i=left;i<=right && ct<= n*n;i++){
+            for(int i=left;i<=right;i++){
                 mat[top][i] = ct++;
             }
             top++;
 
-            for(int i=top;i<=bot && ct<=n*n ; i++){
+            for(int i=top;i<=bot;i++){
                 mat[i][right]=ct++;
             }
             right--;
 
-            for(int i=right;i>=left && ct<=n*n ; i--){
+            for(int i=right;i>=left; i--){
                 mat[bot][i]=ct++;
             }
             bot--;
 
-            for(int i=bot;i>=top && ct<=n*n ; i--){
+            for(int i=bot;i>=top; i--){
                 mat[i][left]=ct++;
             }
             left++;
