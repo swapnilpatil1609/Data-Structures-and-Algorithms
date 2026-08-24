@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
