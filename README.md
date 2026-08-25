@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
