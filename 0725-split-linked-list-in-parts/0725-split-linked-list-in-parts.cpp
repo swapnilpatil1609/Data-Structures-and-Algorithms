@@ -25,7 +25,7 @@ public:
         temp=head;
         for(int i=0;i<k;i++){
             result[i]=temp;
-            for(int j=1;j<=eachBucketNode+(reaminderNode>0?1:0);j++){
+            for(int size=1;size<=eachBucketNode+(reaminderNode>0?1:0);size++){
                 prev=temp;
                 temp=temp->next;
             }
