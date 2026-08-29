@@ -12,18 +12,18 @@ class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
         int cnt = 0;
-        int originalK = k;
         ListNode* temp = head;
         while(temp!=NULL){
             cnt++;
             temp=temp->next;
         }
         ListNode* first = head;
-        while(k>1){
+        int k1 = k;
+        while(k1>1){
             first=first->next;
-            k--;
+            k1--;
         }
-        int k2=cnt-originalK+1;
+        int k2=cnt-k+1;
         ListNode* last = head;
         while(k2>1){
             last=last->next;
