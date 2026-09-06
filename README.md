@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0092-reverse-linked-list-ii) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
