@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
