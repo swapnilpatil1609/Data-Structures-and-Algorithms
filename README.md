@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-make-the-string-great](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1544-make-the-string-great) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/3110-score-of-a-string) |
 ## Backtracking
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Topological Sort
 |  |
 | ------- |
