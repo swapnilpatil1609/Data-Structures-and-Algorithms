@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0412-fizz-buzz) |
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
+| [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1929-concatenation-of-array) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
