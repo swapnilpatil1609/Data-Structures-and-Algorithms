@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0127-word-ladder) |
