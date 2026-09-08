@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 ## Iterator
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
