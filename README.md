@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1108-defanging-an-ip-address) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1544-make-the-string-great) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
