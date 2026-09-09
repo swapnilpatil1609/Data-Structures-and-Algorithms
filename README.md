@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
