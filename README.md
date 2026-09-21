@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1572-matrix-diagonal-sum) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swapnilpatil1609/Data-Structure-and-Algorithm/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
